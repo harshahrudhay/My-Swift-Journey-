@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "adarsh-kummur-zThTy8rPPsY-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "adarsh-kummur-zThTy8rPPsY-unsplash@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "adarsh-kummur-zThTy8rPPsY-unsplash@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
